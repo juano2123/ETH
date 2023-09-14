@@ -710,7 +710,7 @@ MonoBehaviour:
   dimensionesCaja: {x: 1, y: 0.25, z: 0}
   enSuelo: 1
   tiempoMaximoDeSalto: 0.5
-  fuerzaInicialDeSalto: 30
+  fuerzaInicialDeSalto: 40
   fuerzaMaximaDeSalto: 50
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
