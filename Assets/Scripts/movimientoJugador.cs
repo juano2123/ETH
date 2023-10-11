@@ -22,6 +22,7 @@ public class movimientoJugador : MonoBehaviour
     [SerializeField] private Transform controlSuelo;
     [SerializeField] private Vector3 dimensionesCaja;
     [SerializeField] private bool enSuelo;
+    [SerializeField] private bool atkS;
     private bool salto = false;
 
     private float tiempoDeSalto;
@@ -44,6 +45,25 @@ public class movimientoJugador : MonoBehaviour
 
     void Update()
     {
+
+        if (Input.GetButtonDown("Fire1"))
+        {
+            Debug.Log("atk1");
+            animator.SetBool("atkS", true);
+        }
+        if (Input.GetButtonDown("Fire2"))
+        {
+            Debug.Log("atk2");
+            animator.SetBool("atkS", false);
+            animator.SetBool("muerto", false);
+        }
+        if (Input.GetButtonDown("Fire3"))
+        {
+            animator.SetBool("muerto", true);
+            Debug.Log("atk3");
+        
+        }
+
         movimientoHorizontal = Input.GetAxisRaw("Horizontal") * velocidadDeMovimiento;
 
         animator.SetFloat("Horizontal", Mathf.Abs(movimientoHorizontal));
@@ -69,7 +89,10 @@ public class movimientoJugador : MonoBehaviour
         {
             salto = false;
         }
+        
     }
+
+   
 
     private void FixedUpdate()
     {
@@ -80,6 +103,7 @@ public class movimientoJugador : MonoBehaviour
         salto = false; 
 
     }
+
 
     private void Movimiento(float movimiento, bool salto)
     {
@@ -92,7 +116,7 @@ public class movimientoJugador : MonoBehaviour
         }
         else if(movimiento < 0 && mirandoDerecha)
         {
-            Girar();
+            Girar();      
         }
         if (enSuelo && salto)
         {
