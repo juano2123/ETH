@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerHealth : MonoBehaviour
 {
-    public int maxHealth = 100; // Salud máxima del jugador
+    public int maxHealth = 10000; // Salud máxima del jugador
     private int currentHealth;  // Salud actual del jugador
 
     void Start()
@@ -15,7 +15,7 @@ public class PlayerHealth : MonoBehaviour
     // Método para recibir daño
     public void TakeDamage(int damageAmount)
     {
-        currentHealth -= damageAmount; // Reducimos la salud del jugador
+        currentHealth -= damageAmount  ; // Reducimos la salud del jugador
 
         // Verificamos si la salud del jugador ha llegado a 0 o menos
         if (currentHealth <= 0)
