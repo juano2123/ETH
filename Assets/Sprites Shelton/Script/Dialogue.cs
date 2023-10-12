@@ -11,12 +11,12 @@ public class Dialogue : MonoBehaviour
     [SerializeField] private GameObject dialoguePanel;
     [SerializeField] private TMP_Text dialogueText;
 
-    [SerializeField] private GameObject npc;
+    public GameObject npc1, npc2;
 
     private bool isPlayerInRange;
     private bool didDialogueStart;
     private int lineIndex;
-    private float typingTime = 0.02f;
+    private float typingTime = 0.05f;
 
     
 
@@ -35,6 +35,10 @@ public class Dialogue : MonoBehaviour
             } else if(dialogueText.text == dialogueLines[lineIndex])
             {
                 NextDialogueLine();
+            } else
+            {
+                StopAllCoroutines();
+                dialogueText.text = dialogueLines[lineIndex];   
             }
         }
     }
@@ -93,6 +97,9 @@ public class Dialogue : MonoBehaviour
             isPlayerInRange = false;
             dialogueMark.SetActive(false);
             Debug.Log("salio a mensajes");
+            npc1.SetActive(true) ;
+            npc2.SetActive(true) ;
+            
         }
             
     }

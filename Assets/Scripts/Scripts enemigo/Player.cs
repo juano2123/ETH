@@ -3,11 +3,13 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     [SerializeField] private float speed;
+    [SerializeField] private bool atkMagoS;
 
     private bool isFacingRight = true;
     private Vector2 input;
     private Rigidbody2D rb;
     private Animator animator;
+
 
     void Start()
     {
@@ -22,6 +24,8 @@ public class Player : MonoBehaviour
         input = new Vector2 (xInput, yInput).normalized;
         Flip();
         animator.SetFloat("Speed", input.magnitude);
+
+        
     }
 
     private void FixedUpdate()
