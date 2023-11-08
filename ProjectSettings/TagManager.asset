@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - proyectil
+  - Fuego
+  - Remolino
+  - Spin
   layers:
   - Default
   - TransparentFX
@@ -13,8 +17,8 @@ TagManager:
   - Water
   - UI
   - Piso1
-  - 
-  - 
+  - Enemy
+  - Proyectil
   - 
   - 
   - 
