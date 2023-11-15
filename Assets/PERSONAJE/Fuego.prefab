@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4763038011897429090}
   - component: {fileID: 3830818744250676233}
   - component: {fileID: 9133468157134539891}
-  - component: {fileID: 3053669265539916093}
+  - component: {fileID: -7850822478725373525}
   m_Layer: 0
   m_Name: Fuego
   m_TagString: Fuego
@@ -181,7 +181,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.17, y: 0.15}
   m_EdgeRadius: 0
---- !u!114 &3053669265539916093
+--- !u!114 &-7850822478725373525
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -190,9 +190,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 448109267011532243}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8458e3381240a9049b63dc6070d7a782, type: 3}
+  m_Script: {fileID: 11500000, guid: cfd7d4fcf0958fd4ba841cb1a6059a77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fireballPrefab: {fileID: 448109267011532243}
-  firePoint: {fileID: 0}
-  fireballSpeed: 5
+  damage: 50
