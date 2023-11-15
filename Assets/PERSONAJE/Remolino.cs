@@ -1,10 +1,16 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Remolino : MonoBehaviour
 {
     public float damage = 50f;
+    public float lifetime = 1f; // Tiempo de vida del remolino en segundos
+
+    void Start()
+    {
+        // Destruye el remolino después de 'lifetime' segundos
+        Debug.Log("Destruyendo remolino en " + lifetime + " segundos.");
+        Destroy(gameObject, lifetime);
+    }
 
     void OnTriggerEnter2D(Collider2D collision)
     {
@@ -15,5 +21,5 @@ public class Remolino : MonoBehaviour
             Destroy(gameObject); // Destruye la bola de fuego después de golpear al enemigo
         }
     }
-
 }
+
