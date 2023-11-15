@@ -5,6 +5,14 @@ using UnityEngine;
 public class Spin : MonoBehaviour
 {
     public float damage = 60f;
+    public float lifetime = 1f; // Tiempo de vida del remolino en segundos
+
+    void Start()
+    {
+        // Destruye el remolino después de 'lifetime' segundos
+        Debug.Log("Destruyendo spin en " + lifetime + " segundos.");
+        Destroy(gameObject, lifetime);
+    }
 
     void OnTriggerEnter2D(Collider2D collision)
     {

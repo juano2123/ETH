@@ -47,8 +47,11 @@ public class PlayerMovement : MonoBehaviour
     // Función pública para obtener la dirección de mira
     public Vector2 GetLookDirection()
     {
+        // Suponiendo que 'lookDirection' es un Vector2 que representa la dirección de mirada
+        Debug.Log("Look Direction: " + lookDirection);
         return lookDirection;
     }
+
     public bool IsMoving()
     {
         return movement != Vector2.zero;
