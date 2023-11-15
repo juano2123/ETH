@@ -49,4 +49,8 @@ public class PlayerMovement : MonoBehaviour
     {
         return lookDirection;
     }
+    public bool IsMoving()
+    {
+        return movement != Vector2.zero;
+    }
 }
