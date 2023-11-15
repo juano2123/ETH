@@ -1,0 +1,3198 @@
+fileFormatVersion: 2
+guid: 6f6e48c2edb6997419a713f65ca44564
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 230
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24ac21b342a7944187b33ea8a007e56
+      internalID: -1213526523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 228
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22baaded2a211f1429465d27ff5d5c0c
+      internalID: 112951389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 230
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608557fa36977304082274a347162d20
+      internalID: -1394965183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 227
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59891dd4c97601643ae3ebdee8c13f89
+      internalID: -486607092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 226
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79ab4288ec1b9b4d979204fb641c7f1
+      internalID: 1393422987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 226
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc7dd6cf55deed42a382739f2cd8ffb
+      internalID: -1916011827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 226
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b4ac8bc27085848b6619d1a5f84d71
+      internalID: 1421989154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 225
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018370121868d7649b1acc1af3493488
+      internalID: -437854741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 225
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388446735f2373e40bff7042f44cd7dd
+      internalID: -1218677475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 225
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921bc64ba2037b84c985db107326f7bc
+      internalID: -1363601068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 228
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920af1a48298b96468c023a3fd2b8a95
+      internalID: 1741917004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 228
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8c5b30b887cc242b11f5bfbabf0071
+      internalID: -1266688454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 228
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a63f30af4423af40b625ee2b6cd174d
+      internalID: -835210733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 228
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63df612293a589b44a984ddedceececd
+      internalID: 1141405630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 226
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2717201fbabbc4546bed71f623f540cd
+      internalID: -128243027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 226
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de09d004348bb7468a072437f8cdf0e
+      internalID: 554650973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_16
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 226
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8375d91bd0fa9d34b8a8e32170be85a4
+      internalID: -1535516907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 189
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e08c4101c94b649b55b259b4ded35b
+      internalID: -215956221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 189
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14caeebe607101429a83f3acfb09dbe
+      internalID: -2049726470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 189
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5786ba7bbf5ac949940abceb9843607
+      internalID: 1212158268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 189
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d680dc1ae67eb240bdfcad27414d51e
+      internalID: 1146091192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 189
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30855fa944fb5642b8447e5928c1672
+      internalID: 817396032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 198
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48227a063c43a5142b2cf6dcbb164c8b
+      internalID: -1476314658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 199
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeb11c970b739b489e16faf95b32433
+      internalID: -213681058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 198
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af0f6aea3dbdfd42915e135d017fb55
+      internalID: 1342945491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 199
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040a5d060ec9ee74caa28bde599bdb92
+      internalID: 1711652745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 193
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21957db72ca0ec49b329c2ee86db268
+      internalID: 1242860960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_27
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 193
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f906aecb021564882c56add38458fe
+      internalID: -860660186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_28
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 194
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b756f7fe500d4cf4ba30393d81bbfa20
+      internalID: -562689123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eb252b3f3256a46a1ef1aa0d3137e0
+      internalID: -816411296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_30
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53acb85551bf7ac4d850e98726f103d7
+      internalID: 1375781479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8012eb51cd35a408472d708ae08788
+      internalID: 844071996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_32
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 196
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f8bdaa47fbbf34a8a58bdf8becda19
+      internalID: -389321828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 196
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2ad1c616463c74f9404364f1b655ea
+      internalID: -912519138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_34
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 194
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67bf955c0d56784781018f41508c348
+      internalID: -1902424367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_35
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 185
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8824f339d45566749bc6178f8b922ba8
+      internalID: 1701419456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_36
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 185
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed502899b2194714789c62158755bf90
+      internalID: -1405484722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_37
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 185
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa67e93b5f8e9d54ea1f2446ca3902f2
+      internalID: 882471388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 189
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4046575958f24094f9662644b423d34d
+      internalID: 1250069809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_39
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 189
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2de1addfa707f04fa3874873e495325
+      internalID: -882312991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 160
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb82913675a725468426b0a8641665f
+      internalID: 2134958754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 163
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d875e1153d3a3c43abfbab619e26f3b
+      internalID: 2128102227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 163
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb43cd30e1d97354ea8179e92f55707e
+      internalID: -2083252084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_43
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 168
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c332c1be084bb21488fa910bc7c39d1e
+      internalID: -1326706696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 164
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b1c31524c074b45bf177ccccc76180
+      internalID: 1719177382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_45
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 165
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65faa431c4ddbc24786de4cb443898be
+      internalID: -329713587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 165
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b134cce307be648882cafc6813f50c
+      internalID: 188420627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_47
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 163
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204772faae41de74b867fb5aa7bfb37c
+      internalID: 1377714565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_48
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 161
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fe7427c54555948bf8a41f677d6a7d
+      internalID: 1713802794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_49
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 164
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecf49ced2461544a88001f2d60dfc1a
+      internalID: -683467954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_50
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 164
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b640727956de24d8e4f06bee73aea1
+      internalID: 1639366423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_51
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 162
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5aac053d2d3794ba561da213606488
+      internalID: 1053486162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_52
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 163
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badb8c0daae8df0499a6a0fd546091e3
+      internalID: -436361027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 162
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad746544076812d489fc642b112627f0
+      internalID: 2020159211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_54
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 163
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cd28152f6cc1544b49032dc86b6684
+      internalID: 95534724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_55
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 163
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d78bc88335dcd4d814f2cfea14c13f
+      internalID: 310607634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_56
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a27c629914cee4f990777a5ee65a0d
+      internalID: 1999296603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_57
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 141
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5584b954b4efc7a4986dc4edcba862c4
+      internalID: -1843828573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_58
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86def0f1781fbf94b8f6bd043b0ff333
+      internalID: 1818649947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_59
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 142
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb25751af97bda94ab25c96b0b9fd3ff
+      internalID: -350204071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_60
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 142
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7babcc5e25d8045b6d306fa17278d9
+      internalID: 156739808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_61
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 142
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b200cc422a0eb845aac1098515dd4f3
+      internalID: 344756531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_62
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 140
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7aa635389b1534bbc619a52559c064
+      internalID: 1630552062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_63
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 140
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a51418970805243857a9d926829b05
+      internalID: 355262101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_64
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 140
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170877b2876a8f547bf825ff52bb348b
+      internalID: 918717979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_65
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 143
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b22ace19bd572b4d8abf3feb56dd075
+      internalID: 709996553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_66
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 141
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1b2d37757de8d4792fad4f123faabd
+      internalID: 1860523580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_67
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 143
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6453c65cda61d1b4097e2569c757ed6a
+      internalID: 893153815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_68
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 143
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0edbd85e438d048b077b6fa7adc8f1
+      internalID: 1047175010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b608fa258cc20b14a9578ea9620d8b70
+      internalID: 1349124299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_70
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc93a3e9e86bc046913566a3f6a6b7f
+      internalID: 1976224110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_71
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 128
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5f8180b0aceed4c91b5a1c97f612ee
+      internalID: -399232106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_72
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 128
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce0bd4f14d9bc4aac5093c4e65b387
+      internalID: 261652784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_73
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 129
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d526623d37f4d74f807254e584a2a12
+      internalID: 1901768145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_74
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 133
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d86ae534ca94e4293c29f91b3428bf
+      internalID: -210907531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_75
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 133
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dfc0425d279614fa13920f674726d9
+      internalID: 1347157225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_76
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 127
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4c99f4d5bb9af4c88b79c28fe3b8cf
+      internalID: -562513623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_77
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 127
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cff7667febe244685840310d480636
+      internalID: 1618843106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_78
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 127
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b6547bf3122184eb4c471ced686e77
+      internalID: 1981800100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_79
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 127
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62959f909c622a8488527ba20025fc5c
+      internalID: 716906199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_80
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005475ad9712a2e4ea900e077f244e95
+      internalID: 1298233848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_81
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b7e4d09772a4d4f9dbe8efe61ca739
+      internalID: -2136619232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_82
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bcf146c427d7e49937bbcbacd62d96
+      internalID: 471403357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_83
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0500af321efd14b9016bd1763a6bf5
+      internalID: -1840445743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_84
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 124
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63d28866c6faba4ead90a0578d27776
+      internalID: 1249156932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_85
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 121
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3363325a099cad478aec26df7ff7abc
+      internalID: 1378151301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_86
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 124
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd88affc69e84af4d9a07d4db3d5b339
+      internalID: 719542487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_87
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686041a4a490b6b4eb16e54d3e1eae57
+      internalID: -1376621215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_88
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43953e322856174429894d438d9d9b7d
+      internalID: -166882412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_89
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 99
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391519a4c2e15b145844411a07ee0938
+      internalID: 234213154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_90
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 99
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f36b28c19e5dc64cba4cc8e8671ebf0
+      internalID: 94633565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_91
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 98
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5b7a3e4b4dc7047969554ab99ab193
+      internalID: -1282051190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_92
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2ace35660d12a4cbcdda1f08c503ae
+      internalID: 1904430425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_93
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 100
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55059c73463a1d246a2c011bba3fad68
+      internalID: 1638602240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_94
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7f70b8a500730458948704a3fe7f16
+      internalID: 683674906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_95
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0988d2bcbb2deaa4aaad7e49b682aa00
+      internalID: 447972586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_96
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 103
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18832102e9747346b7e113bc07e06ae
+      internalID: -668801226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_97
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 102
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dce9c249ba68a64a90d8a47a907c8e3
+      internalID: 1827157764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_98
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e6ec6fd01b9b747aab227639beecf0
+      internalID: 1547045332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_99
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa74952489c7b544ab2689d28ca0682c
+      internalID: 650986080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_100
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 98
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b35da474728af4eb92ccf4493cf96e
+      internalID: 277642754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_101
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 98
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5732cc5ed41e604eab572ada6e4a615
+      internalID: 708591483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_102
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 98
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97a2332b7f555f48bd120d7d109ccbd
+      internalID: -115971216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_103
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 98
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a230ebfc745cb4e8078709bcd65a12
+      internalID: 1695191302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_104
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 69
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0b205998e476e4c94161a93d7a90d3
+      internalID: 312981903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_105
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 70
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c76bb0b976c9fe448f3de42b4dfdb6c
+      internalID: -1529276243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_106
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec66b73cc98249249aa29e7a7b7a5bf9
+      internalID: -818551048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_107
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 66
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae087f4adf2e2e4eb155a29cca78794
+      internalID: -1577170872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_108
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 63
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318fc2ededa40c24287ccec509eb1068
+      internalID: -171299141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_109
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 62
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b923e39968684bf47894e623bc708862
+      internalID: -923151407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_110
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 62
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68477c06569597409c896defcdc058e
+      internalID: 157686725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_111
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 62
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc736c97f6ec614fb9eefb00c47cd9f
+      internalID: -1866432231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_112
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 66
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7af0fffe31d8c949ba01727d0174b2d
+      internalID: 1305442077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_113
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b041b6a7d7724924aa2b3579dd63034d
+      internalID: -988132803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_114
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 66
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0c591463123444c909503430f54b23
+      internalID: 880728388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_115
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b0a72c88932c64895524fd6c715f85
+      internalID: -1820956893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_116
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3e081a6d6c59b499d05bf4bc4174eb
+      internalID: -1088431469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_117
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 67
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5f1b7cb32c72248b8ebd69dccae60c
+      internalID: -1799747729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_118
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c2f078c85f52842a75cda55aa3b1b8
+      internalID: -420894519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_119
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 65
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25062240faae764eb8ed4ffafbbfe9a
+      internalID: 145932906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_120
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ea75fbeb075ae4faca23dcb9be1b4a
+      internalID: 1415147238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_121
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 67
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f85bad79cc9b54597dfbdb24adb9f3
+      internalID: 460413217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_122
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cf1d72409774142bf8330f1556fa9c
+      internalID: 1932248590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_123
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 65
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb56827da6d43a4c9bf5fde356045bb
+      internalID: -1291899582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_124
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 18
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fd2e99d2919014c855698273a6c2d4
+      internalID: 132837746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_125
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 19
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c87e7b3b042684cb24272a0fa35eab
+      internalID: -925538821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_126
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 20
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b1c5ba7e194ae4b9ebfd80b0ba2580
+      internalID: 928738771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_127
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 27
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c9ee76e274a5e43a9fddc75560ff45
+      internalID: -1943727036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_128
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 27
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2e056c445fd524da3d86bf50f13d0e
+      internalID: 295081418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_129
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 30
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4319628407e3842829f9e21dd84aa8
+      internalID: 1092950408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_130
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 36
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4f9e650e218e344a1adad76f894293
+      internalID: -769276897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_131
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 33
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bffecc3794013c4fb285325b63932c9
+      internalID: -317452518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_132
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 29
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910f483d51770ce4a9ebf0a874476b25
+      internalID: -726837051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_133
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 30
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb94d97d489124b48a25f6ab89c8f061
+      internalID: 1117722163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_134
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 31
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5598b2ac3a7a0b243a1935e852acd2d7
+      internalID: -396966160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_135
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 30
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3426df9f3408f49bc50c18e8492c85
+      internalID: 1923713467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_136
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 17
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c33a27eed103943b21fc78fcfdd633
+      internalID: 1740579960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_137
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 18
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1a9e7c8c342c345aa6a6d50ed42291
+      internalID: -1609131672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_138
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 18
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6e323027fc5954d9a69d7b48e3ab35
+      internalID: 633561403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_0: -1213526523
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_1: 112951389
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_10: 1741917004
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_100: 277642754
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_101: 708591483
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_102: -115971216
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_103: 1695191302
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_104: 312981903
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_105: -1529276243
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_106: -818551048
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_107: -1577170872
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_108: -171299141
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_109: -923151407
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_11: -1266688454
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_110: 157686725
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_111: -1866432231
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_112: 1305442077
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_113: -988132803
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_114: 880728388
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_115: -1820956893
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_116: -1088431469
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_117: -1799747729
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_118: -420894519
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_119: 145932906
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_12: -835210733
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_120: 1415147238
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_121: 460413217
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_122: 1932248590
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_123: -1291899582
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_124: 132837746
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_125: -925538821
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_126: 928738771
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_127: -1943727036
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_128: 295081418
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_129: 1092950408
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_13: 1141405630
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_130: -769276897
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_131: -317452518
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_132: -726837051
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_133: 1117722163
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_134: -396966160
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_135: 1923713467
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_136: 1740579960
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_137: -1609131672
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_138: 633561403
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_14: -128243027
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_15: 554650973
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_16: -1535516907
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_17: -215956221
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_18: -2049726470
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_19: 1212158268
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_2: -1394965183
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_20: 1146091192
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_21: 817396032
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_22: -1476314658
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_23: -213681058
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_24: 1342945491
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_25: 1711652745
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_26: 1242860960
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_27: -860660186
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_28: -562689123
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_29: -816411296
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_3: -486607092
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_30: 1375781479
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_31: 844071996
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_32: -389321828
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_33: -912519138
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_34: -1902424367
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_35: 1701419456
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_36: -1405484722
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_37: 882471388
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_38: 1250069809
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_39: -882312991
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_4: 1393422987
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_40: 2134958754
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_41: 2128102227
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_42: -2083252084
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_43: -1326706696
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_44: 1719177382
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_45: -329713587
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_46: 188420627
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_47: 1377714565
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_48: 1713802794
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_49: -683467954
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_5: -1916011827
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_50: 1639366423
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_51: 1053486162
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_52: -436361027
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_53: 2020159211
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_54: 95534724
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_55: 310607634
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_56: 1999296603
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_57: -1843828573
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_58: 1818649947
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_59: -350204071
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_6: 1421989154
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_60: 156739808
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_61: 344756531
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_62: 1630552062
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_63: 355262101
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_64: 918717979
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_65: 709996553
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_66: 1860523580
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_67: 893153815
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_68: 1047175010
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_69: 1349124299
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_7: -437854741
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_70: 1976224110
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_71: -399232106
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_72: 261652784
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_73: 1901768145
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_74: -210907531
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_75: 1347157225
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_76: -562513623
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_77: 1618843106
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_78: 1981800100
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_79: 716906199
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_8: -1218677475
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_80: 1298233848
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_81: -2136619232
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_82: 471403357
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_83: -1840445743
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_84: 1249156932
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_85: 1378151301
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_86: 719542487
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_87: -1376621215
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_88: -166882412
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_89: 234213154
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_9: -1363601068
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_90: 94633565
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_91: -1282051190
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_92: 1904430425
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_93: 1638602240
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_94: 683674906
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_95: 447972586
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_96: -668801226
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_97: 1827157764
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_98: 1547045332
+      8_bit_fx_2_by_bongwater_bandit_dapoxrp-fullview_99: 650986080
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
