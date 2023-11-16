@@ -836,6 +836,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ef557f0fddcd2f42b7ba91b498197e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  escena: castillo
 --- !u!1 &957926110
 GameObject:
   m_ObjectHideFlags: 0

@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/tuto2.unity
     guid: 8fb6954e9933d414c985ca36060a6030
+  - enabled: 1
+    path: Assets/Scenes/castillo.unity
+    guid: 71ba1917cba568c4ebd65e6ac4136380
+  - enabled: 1
+    path: Assets/Scenes/trono.unity
+    guid: 753cd3dc0c9b3a94a93dc2ad5e16e13d
   m_configObjects: {}

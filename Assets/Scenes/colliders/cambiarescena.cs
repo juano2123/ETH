@@ -3,12 +3,13 @@ using UnityEngine.SceneManagement;
 
 public class CambiaEscena : MonoBehaviour
 {
+    public string escena;
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.tag == "Player")
         {
 
-            SceneManager.LoadScene("Scenes/tuto2");
+            SceneManager.LoadScene(escena);
             Debug.Log("hpppppp");
         }
         
